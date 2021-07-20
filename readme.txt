@@ -1,6 +1,5 @@
 React Introduction
-I Javascript lib created by Facebook.... 
-It is very fast, maybe faster than the pure javascript, because it creates virtual DOM.
+It is a Javascript lib created by Facebook, it is fast, maybe faster than the pure javascript, because it creates virtual DOM.
 
 
 Important cmd...
