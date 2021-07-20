@@ -1,0 +1,34 @@
+React Introduction
+I Javascript lib created by Facebook.... 
+It is very fast, maybe faster than the pure javascript, because it creates virtual DOM.
+
+
+Important cmd...
+npm install -g create-react-app
+//npm install --global http-server
+Dont have to install npm globaly...   npm install is okey...
+sudo apt install nodejs
+$ sudo apt install npm
+npm --version / npm -v
+npx create-react-app test// test is the project foldername...
+npx create-react-app myfirstreact
+npm run
+
+
+For installing react bootstrap..
+You can try to use this:
+
+ 
+npm install bootstrap  react-boot
+npm i --save react-bootstrap
+
+// For API recommended
+npm add axios
+
+// Components
+
+https://react-bootstrap.github.io/
+https://react-bootstrap.netlify.app/components/images/
+
+
+
