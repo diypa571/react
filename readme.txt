@@ -10,13 +10,12 @@ create-react-native-app testapp
 *****************************************
 
 
-
-
 //npm install --global http-server
 
 
 *****************************************
 
+//npm install --global http-server
 sudo apt install nodejs
 $ sudo apt install npm
 npm --version / npm -v
