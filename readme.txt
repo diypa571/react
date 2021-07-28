@@ -5,7 +5,6 @@ It is a Javascript lib created by Facebook, it is fast, maybe faster than the pu
 Important cmd...
 npm install -g create-react-app
 //npm install --global http-server
-Dont have to install npm globaly...   npm install is okey...
 sudo apt install nodejs
 $ sudo apt install npm
 npm --version / npm -v
