@@ -9,6 +9,8 @@ npm install -g react-native-cli
 create-react-native-app testapp
 *****************************************
 
+3- For eject...
+npm run eject
 
 //npm install --global http-server
 
