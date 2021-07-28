@@ -3,8 +3,15 @@ It is a Javascript lib created by Facebook, it is fast, maybe faster than the pu
 
 
 Important cmd...
+1- Install reactnative cli 
+npm install -g react-native-cli
+2- Create a reactnative app
 npm install -g create-react-app
 //npm install --global http-server
+
+
+*****************************************
+
 sudo apt install nodejs
 $ sudo apt install npm
 npm --version / npm -v
